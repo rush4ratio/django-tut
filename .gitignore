@@ -1,0 +1,9 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+Lib/
+Scripts/
+/static
+pip-selfcheck.json
+pyvenv.cfg
